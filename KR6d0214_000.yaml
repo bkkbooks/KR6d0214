@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0214/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天台智者大師傳論
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0916.xml
+    old_id: X55n0916
+hash: sha256:4382d2075be87689600a42af261d3b1d7c054737dd873b7701a9afbbd62f7cf9
